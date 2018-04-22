@@ -1,0 +1,13 @@
+*~
+venv
+.pytest_cache
+.idea
+__pycache__
+virt-example
+*.egg-info
+*.substvars
+*.postinst.debhelper
+*.debhelper.log
+debhelper-build-stamp
+*.debhelper
+*.pyc
